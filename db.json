@@ -1,4 +1,6 @@
-[{
+{
+  "mahasiswa":
+  [{
   "id": 1,
   "name": "Rae Cheevers",
   "gender": "Female"
@@ -119,3 +121,4 @@
   "name": "Lorry Cottee",
   "gender": "Male"
 }]
+}
